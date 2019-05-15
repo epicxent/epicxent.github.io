@@ -18,7 +18,7 @@
 		</ul>
 	</div>
 
-<embed name="GoodEnough" src="bg_audio/index.ogg" loop="true" hidden="true" autostart="true"> /* bG music */
+<embed name="GoodEnough" src="bg_audio/index.ogg" loop="true" hidden="true" autostart="true"> 
 
 	         
 <div class="slideshow-container">
