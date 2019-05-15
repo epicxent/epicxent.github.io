@@ -104,7 +104,7 @@
                 
                                             Respect to all of the game resources.<br>Aung Kham
                                          </p>
-					<p class="links"><a href="game.html">Play The Games Here</a>&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;<a href="github.com/maungkham/">View Source codes</a></p>
+					<p class="links"><a href="game.html">Play The Games Here</a>&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/epicxent">View Source codes</a></p>
 				</div>
 			</div>
 			<div class="post">
