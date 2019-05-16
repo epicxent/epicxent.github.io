@@ -220,7 +220,7 @@
 						<li><a href="#">POP</a></li>
 						<li><a href="#">Rock</a></li>
 						<li><a href="#">DJ</a></li>
-						<li><a href="#">Others</a></li>
+						<li><a href="https://ucsltech.github.io/">Others</a></li>
 					</ul>
 				</li>
 			</ul>
